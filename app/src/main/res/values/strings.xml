@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anime Voice Changer</string>
+    <string name="permission_mic_title">Cấp quyền micro</string>
+    <string name="permission_mic_body">Ứng dụng cần quyền micro để thay đổi giọng nói theo thời gian thực.</string>
+    <string name="open_settings">Mở cài đặt</string>
+    <string name="enable_vc">Bật Voice Changer</string>
+    <string name="anime_nu">Anime Nữ</string>
+    <string name="anime_nam">Anime Nam</string>
+</resources>
